@@ -42,7 +42,7 @@ body{
 /* First-Section */
 
 .firstOne{
-    height: 83vh;
+    height: 86vh;
     background-image: url('1st.jpg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -54,20 +54,21 @@ body{
 
 .left{
     border-radius: 0 300px 300px 0;
-    width: 600px;
-    height: 450px; 
+    width: 700px;
+    height: 570px; 
     background-color: white;
     position: absolute;
-    top: 22%;
+    top: 20%;
 }
 
 /* Text in left box in first section */
 
 .text{
-    padding-top: 70px;
-    width: 70%;
+    padding-top: 110px;
+    width: 80%;
     padding-left: 40px;
     line-height: 30px;
+    font-size: 20px;
 }
 
 .heading{
@@ -84,10 +85,11 @@ body{
 .right{
     height: 500px;
     width: 35%;
-    padding-left: 650px;
+    padding-left: 800px;
     line-height: 30px;
-    padding-top: 200px;
+    padding-top: 350px;
     color: white ;
+    font-size: 20px;
 }
 
 /* second section */
@@ -105,18 +107,18 @@ body{
 /* left image in second section */
 
 .left_img{
-    padding-top: 170px;
-    padding-left: 90px;
-    height: 300px;
-    width: 300px;
+    padding-top: 200px;
+    padding-left: 150px;
+    height: 400px;
+    width: 400px;
 }
 
 /* right-box */
 
 .right1{
     border-radius: 300px 0 0 300px;
-    width: 650px;
-    height: 500px; 
+    width: 700px;
+    height: 600px; 
     background-color: white;
     position: absolute; 
     top: 10%;
@@ -126,14 +128,16 @@ body{
 /* text in right box in second section */
 
 .text1{
-    padding-left: 140px;
-    width: 65%;
-    padding-top: 100px;
-    line-height: 30px;
+    padding-left: 130px;
+    width: 70%;
+    padding-top: 130px;
+    line-height: 35px;
+    font-size: 20px;
 }
 
 .heading2{
     margin: 0;
+    color: #c96060;
 }
 
 /* third section */
@@ -152,8 +156,8 @@ body{
 
 .left2{
     border-radius: 0 300px 300px 0;
-    width: 600px;
-    height: 500px; 
+    width: 750px;
+    height: 600px; 
     background-color: white;
     position: relative;
     top: 10%;
@@ -162,19 +166,20 @@ body{
 /* text in left box in section3 */
 
 .text2{
-    padding-top: 70px;
+    padding-top: 110px;
     width: 70%;
-    padding-left: 40px;
+    padding-left: 70px;
     line-height: 30px;
+    font-size: 20px;
 }
 
 /* right box */
 
 .right2_img{
-    height: 300px;
-    width: 300px;
-    padding-top: 170px;
-    padding-left: 80px;
+    height: 400px;
+    width: 400px;
+    padding-top: 200px;
+    padding-left: 130px;
 }
 
 /* fourth section */
@@ -195,8 +200,8 @@ body{
 
 .right3 {
     border-radius: 300px 0 0 300px;
-    width: 650px;
-    height: 500px; 
+    width: 800px;
+    height: 600px; 
     background-color: white;
     position: absolute; 
     top: 50%;
@@ -209,8 +214,9 @@ body{
 .text3{
     padding-left: 140px;
     width: 65%;
-    padding-top: 100px;
+    padding-top: 120px;
     line-height: 30px;
+    font-size: 20px;
 }
 
 .link1{
@@ -220,7 +226,8 @@ body{
 
 .form{
     padding-top: 150px;
-    padding-right: 800px;
+    padding-right: 1000px;
+    /* width: 60px; */
 }
 
 .form input[type="text"],
